@@ -23,7 +23,7 @@ The easiest way to start is to sign up at [authgear.com](https://authgear.com) f
 
 ## Example applications
 
-Check out one of our [examples repo](https://github.com/topics/authgear-examples).
+Check out one of our [examples repo](https://github.com/orgs/authgear/repositories?language=&q=example&sort=&type=all).
 
 ## Deploy Authgear (Self-Hosted)
 
