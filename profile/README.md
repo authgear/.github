@@ -27,7 +27,7 @@ Check out one of our [examples repo](https://github.com/orgs/authgear/repositori
 
 ## Deploy Authgear (Self-Hosted)
 
-To deploy Authgear locally, follow [this guide](https://docs.authgear.com/deploy-on-your-cloud/local)
+To run Authgear locally for development, follow [this guide](https://docs.authgear.com/deploy-on-your-cloud/local)
 
 [Helm Chart](https://docs.authgear.com/deploy-on-your-cloud/helm) is the recommended way to deploy Authgear on Kubernetes for production usage
 
